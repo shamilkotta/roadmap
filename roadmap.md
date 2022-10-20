@@ -6,6 +6,7 @@
   - [ ]  DNS and how it works
   - [ ]  What is domain name
   - [ ]  What is hosting
+-
 - [ ]  HTML
   - [x]  Learn the basics
   - [x]  Forms and validations
@@ -13,4 +14,17 @@
   - [ ]  Writing semantic HTML
   - [ ]  Accessbility
   - [ ]  SEO basics
+-
+- [ ]  CSS
+  - [x]  Learn the basics
+  - [x]  Making layouts
+    - [ ]  Floats
+    - [ ]  Positioning
+    - [ ]  Display
+    - [ ]  Box model
+    - [ ]  Flex box
+    - [ ]  CSS Grid
+  - [ ]  Responsive design & Media queries
+  - [ ]  Bootstrap
+  - [ ]  Tailwind CSS
 
