@@ -46,4 +46,14 @@
     - [ ]  promises / Callbacks
     - [ ]  OS level (V8)
   - [ ]  Debugging
+-
+- [ ]  Package manager
+  - [x]  npm
+  - [ ]  yarn
+-
+- [ ]  Version control
+  - [x]  Basic usage of git
+  - [ ]  Github
+    - [x]  Basics
+    - [ ]  Actions
 
