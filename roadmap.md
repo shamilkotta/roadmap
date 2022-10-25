@@ -1,5 +1,5 @@
 # MERN Progress Tracker
-- [ ]  Internet
+- ## [ ]  Internet
   - [ ]  How does internet work
   - [ ]  What is HTTP
   - [ ]  Browser and how they work
@@ -7,7 +7,7 @@
   - [ ]  What is domain name
   - [ ]  What is hosting
 -  
-- [ ]  OS and General knowledge
+- ## [ ]  OS and General knowledge
   - [ ]  Termianl usage
   - [ ]  How os works in general
   - [ ]  Process management
@@ -18,7 +18,7 @@
   - [ ]  POSIX basics
   - [ ]  Basic neteworking
 -  
-- [ ]  HTML
+- ## [ ]  HTML
   - [x]  Learn the basics
   - [x]  Forms and validations
   - [ ]  Convention and best practices
@@ -26,7 +26,7 @@
   - [ ]  Accessbility
   - [ ]  SEO basics
 -  
-- [ ]  CSS
+- ## [ ]  CSS
   - [x]  Learn the basics
   - [x]  Making layouts
     - [ ]  Floats
@@ -43,7 +43,7 @@
   - [ ]  CSS Preprocessors
     - [ ]  Saas
 -  
-- [ ]  Javascript
+- ## [ ]  Javascript
   - [x]  Basics
   - [x]  DOM manipulation
   - [x]  Fetch API
@@ -60,12 +60,12 @@
     - [ ]  OS level (V8)
   - [ ]  Debugging
 -  
-- [ ]  Package manager
+- ## [ ]  Package manager
   - [x]  npm
     - [ ]  npm scripts
   - [ ]  yarn
 -  
-- [ ]  Version control
+- ## [ ]  Version control
   - [x]  Basic usage of git
   - [ ]  Github
     - [x]  Basics
@@ -74,11 +74,11 @@
     - [ ]  Actions
     - [ ]  CI/CD
 -  
-- [ ]  Nodejs
+- ## [ ]  Nodejs
 -  
-- [ ]  React
--  
-- [ ]  Linters and formatters
+- ## [ ]  React
+-  \
+- ## [ ]  Linters and formatters
   - [x]  Es lint
   - [X]  Prettier
 -  
