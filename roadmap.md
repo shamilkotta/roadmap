@@ -6,7 +6,7 @@
   - [ ]  DNS and how it works
   - [ ]  What is domain name
   - [ ]  What is hosting
--
+-  
 - [ ]  OS and General knowledge
   - [ ]  Termianl usage
   - [ ]  How os works in general
@@ -17,7 +17,7 @@
   - [ ]  I/O managment
   - [ ]  POSIX basics
   - [ ]  Basic neteworking
--
+-  
 - [ ]  HTML
   - [x]  Learn the basics
   - [x]  Forms and validations
@@ -25,7 +25,7 @@
   - [ ]  Writing semantic HTML
   - [ ]  Accessbility
   - [ ]  SEO basics
--
+-  
 - [ ]  CSS
   - [x]  Learn the basics
   - [x]  Making layouts
@@ -42,7 +42,7 @@
     - [ ]  BEM
   - [ ]  CSS Preprocessors
     - [ ]  Saas
--
+-  
 - [ ]  Javascript
   - [x]  Basics
   - [x]  DOM manipulation
@@ -59,12 +59,12 @@
     - [ ]  promises / Callbacks
     - [ ]  OS level (V8)
   - [ ]  Debugging
--
+-  
 - [ ]  Package manager
   - [x]  npm
     - [ ]  npm scripts
   - [ ]  yarn
--
+-  
 - [ ]  Version control
   - [x]  Basic usage of git
   - [ ]  Github
@@ -73,15 +73,19 @@
     - [ ]  Pages
     - [ ]  Actions
     - [ ]  CI/CD
--
+-  
+- [ ]  Nodejs
+-  
+- [ ]  React
+-  
 - [ ]  Linters and formatters
   - [x]  Es lint
   - [X]  Prettier
--
+-  
 - [ ]  Module Bundlers
   - [ ]  Webpack
   - [ ]  vite
--
+-  
 - [ ]  Typescript
 -
 - [ ]  GraphQl
