@@ -27,14 +27,23 @@
   - [ ]  Responsive design & Media queries
   - [ ]  Bootstrap
   - [ ]  Tailwind CSS
+  - [ ]  CSS Architectures
+    - [ ]  BEM
 -
 - [ ]  Javascript
+  - [x]  Basics
+  - [x]  DOM manipulation
+  - [x]  Fetch API
+  - [x]  es6+ and modular js
+  - [x]  More concepts
+    - [x]  Hoisting
+    - [ ]  Event bubbling
+    - [ ]  prototype
+    - [ ]  shadow DOM
+    - [x]  stric
   - [x]  Async
     - [ ]  Eventloop
     - [ ]  promises / Callbacks
     - [ ]  OS level (V8)
-    - [ ]  Box model
-    - [ ]  Flex box
-    - [ ]  CSS Grid
   - [ ]  Debugging
 
