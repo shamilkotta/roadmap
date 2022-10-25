@@ -7,6 +7,17 @@
   - [ ]  What is domain name
   - [ ]  What is hosting
 -
+- [ ]  OS and General knowledge
+  - [ ]  Termianl usage
+  - [ ]  How os works in general
+  - [ ]  Process management
+  - [ ]  Threads and cuncurrency
+  - [ ]  Memory management
+  - [ ]  Interprocess communication
+  - [ ]  I/O managment
+  - [ ]  POSIX basics
+  - [ ]  Basic neteworking
+-
 - [ ]  HTML
   - [x]  Learn the basics
   - [x]  Forms and validations
