@@ -1,13 +1,13 @@
 # MERN Progress Tracker
-- ## [ ]  Internet
+- [ ]  ***Internet***
   - [ ]  How does internet work
   - [ ]  What is HTTP
   - [ ]  Browser and how they work
   - [ ]  DNS and how it works
   - [ ]  What is domain name
   - [ ]  What is hosting
--  
-- ## [ ]  OS and General knowledge
+- <br/>
+- [ ]  ***OS and General knowledge***
   - [ ]  Termianl usage
   - [ ]  How os works in general
   - [ ]  Process management
@@ -17,16 +17,16 @@
   - [ ]  I/O managment
   - [ ]  POSIX basics
   - [ ]  Basic neteworking
--  
-- ## [ ]  HTML
+- <br/>
+- [ ]  ***HTML***
   - [x]  Learn the basics
   - [x]  Forms and validations
   - [ ]  Convention and best practices
   - [ ]  Writing semantic HTML
   - [ ]  Accessbility
   - [ ]  SEO basics
--  
-- ## [ ]  CSS
+- <br/>
+- [ ]  ***CSS***
   - [x]  Learn the basics
   - [x]  Making layouts
     - [ ]  Floats
@@ -42,8 +42,8 @@
     - [ ]  BEM
   - [ ]  CSS Preprocessors
     - [ ]  Saas
--  
-- ## [ ]  Javascript
+- <br/>
+- [ ]  ***Javascript***
   - [x]  Basics
   - [x]  DOM manipulation
   - [x]  Fetch API
@@ -59,13 +59,13 @@
     - [ ]  promises / Callbacks
     - [ ]  OS level (V8)
   - [ ]  Debugging
--  
-- ## [ ]  Package manager
+- <br/>
+- [ ]  ***Package manager***
   - [x]  npm
     - [ ]  npm scripts
   - [ ]  yarn
--  
-- ## [ ]  Version control
+- <br/>
+- [ ]  ***Version control***
   - [x]  Basic usage of git
   - [ ]  Github
     - [x]  Basics
@@ -73,31 +73,31 @@
     - [ ]  Pages
     - [ ]  Actions
     - [ ]  CI/CD
--  
-- ## [ ]  Nodejs
--  
-- ## [ ]  React
--  \
-- ## [ ]  Linters and formatters
+- <br/>
+- [ ]  ***Nodejs***
+- <br/>
+- [ ]  ***React***
+- <br/>
+- [ ]  ***Linters and formatters***
   - [x]  Es lint
   - [X]  Prettier
--  
-- [ ]  Module Bundlers
+- <br/>
+- [ ]  ***Module Bundlers***
   - [ ]  Webpack
   - [ ]  vite
--  
-- [ ]  Typescript
--
-- [ ]  GraphQl
--
-- [ ]  NGiNX
--
-- [ ]  Redis
--
-- [ ]  CDN
--
-- [ ]  Cloud Providers
--
-- [ ]  Learning scaling
--
-- [ ]  Deploying on web servers
+- <br/>
+- [ ]  ***Typescript***
+- <br/>
+- [ ]  **GraphQl**
+- <br/>
+- [ ]  ***NGiNX***
+- <br/>
+- [ ]  ***Redis***
+- <br/>
+- [ ]  ***CDN***
+- <br/>
+- [ ]  ***Cloud Providers***
+- <br/>
+- [ ]  ***Learning scaling***
+- <br/>
+- [ ]  ***Deploying on web servers***
