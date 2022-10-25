@@ -29,6 +29,8 @@
   - [ ]  Tailwind CSS
   - [ ]  CSS Architectures
     - [ ]  BEM
+  - [ ]  CSS Preprocessors
+    - [ ]  Saas
 -
 - [ ]  Javascript
   - [x]  Basics
@@ -49,11 +51,38 @@
 -
 - [ ]  Package manager
   - [x]  npm
+    - [ ]  npm scripts
   - [ ]  yarn
 -
 - [ ]  Version control
   - [x]  Basic usage of git
   - [ ]  Github
     - [x]  Basics
+    - [ ]  Publish packages
+    - [ ]  Pages
     - [ ]  Actions
-
+    - [ ]  CI/CD
+-
+- [ ]  Linters and formatters
+  - [x]  Es lint
+  - [X]  Prettier
+-
+- [ ]  Module Bundlers
+  - [ ]  Webpack
+  - [ ]  vite
+-
+- [ ]  Typescript
+-
+- [ ]  GraphQl
+-
+- [ ]  NGiNX
+-
+- [ ]  Redis
+-
+- [ ]  CDN
+-
+- [ ]  Cloud Providers
+-
+- [ ]  Learning scaling
+-
+- [ ]  Deploying on web servers
