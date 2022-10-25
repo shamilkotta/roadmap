@@ -27,4 +27,14 @@
   - [ ]  Responsive design & Media queries
   - [ ]  Bootstrap
   - [ ]  Tailwind CSS
+-
+- [ ]  Javascript
+  - [x]  Async
+    - [ ]  Eventloop
+    - [ ]  promises / Callbacks
+    - [ ]  OS level (V8)
+    - [ ]  Box model
+    - [ ]  Flex box
+    - [ ]  CSS Grid
+  - [ ]  Debugging
 
