@@ -41,7 +41,7 @@
   - [ ]  CSS Architectures
     - [ ]  BEM
   - [ ]  CSS Preprocessors
-    - [ ]  Saas
+    - [ ]  Sass / Scss
 - <br/>
 - [ ]  ***Javascript***
   - [x]  Basics
@@ -62,7 +62,7 @@
 - <br/>
 - [ ]  ***Package manager***
   - [x]  npm
-    - [ ]  npm scripts
+    - [x]  npm scripts
   - [ ]  yarn
 - <br/>
 - [ ]  ***Version control***
