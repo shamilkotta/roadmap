@@ -6,7 +6,7 @@
   - [ ]  DNS and how it works
   - [ ]  What is domain name
   - [ ]  What is hosting
-- <br/>
+
 - [ ]  ***OS and General knowledge***
   - [ ]  Termianl usage
   - [ ]  How os works in general
@@ -17,7 +17,7 @@
   - [ ]  I/O managment
   - [ ]  POSIX basics
   - [ ]  Basic neteworking
-- <br/>
+
 - [ ]  ***HTML***
   - [x]  Learn the basics
   - [x]  Forms and validations
@@ -25,7 +25,7 @@
   - [ ]  Writing semantic HTML
   - [ ]  Accessbility
   - [ ]  SEO basics
-- <br/>
+
 - [ ]  ***CSS***
   - [x]  Learn the basics
   - [x]  Making layouts
@@ -42,7 +42,7 @@
     - [ ]  BEM
   - [ ]  CSS Preprocessors
     - [ ]  Sass / Scss
-- <br/>
+
 - [ ]  ***Javascript***
   - [x]  Basics
   - [x]  DOM manipulation
@@ -59,12 +59,12 @@
     - [ ]  promises / Callbacks
     - [ ]  OS level (V8)
   - [ ]  Debugging
-- <br/>
+
 - [ ]  ***Package manager***
   - [x]  npm
     - [x]  npm scripts
   - [ ]  yarn
-- <br/>
+
 - [ ]  ***Version control***
   - [x]  Basic usage of git
   - [ ]  Github
@@ -73,31 +73,35 @@
     - [ ]  Pages
     - [ ]  Actions
     - [ ]  CI/CD
-- <br/>
+
 - [ ]  ***Nodejs***
-- <br/>
+
 - [ ]  ***React***
-- <br/>
+
 - [ ]  ***Linters and formatters***
   - [x]  Es lint
   - [X]  Prettier
-- <br/>
-- [ ]  ***Module Bundlers***
+
+- [ ]  ***Module Bundlers and transpilers***
   - [ ]  Webpack
-  - [ ]  vite
-- <br/>
+  - [ ]  Vite
+  - [ ]  Babel
+
 - [ ]  ***Typescript***
-- <br/>
+
 - [ ]  **GraphQl**
-- <br/>
+
+- [ ] ***Sql***
+  - [ ] Postgresql
+
 - [ ]  ***NGiNX***
-- <br/>
+
 - [ ]  ***Redis***
-- <br/>
+
 - [ ]  ***CDN***
-- <br/>
+
 - [ ]  ***Cloud Providers***
-- <br/>
+
 - [ ]  ***Learning scaling***
-- <br/>
+
 - [ ]  ***Deploying on web servers***
